@@ -1,7 +1,7 @@
 # Elytra PRIVUS Public License  
 Version 1.0 (EPPL-1.0)
 
-Effective Date: DD MMM YYYY  
+Effective Date: 16 NOV 2025  
 Owner: Elytra Security Private Limited (India)  
 Contact: legal@elytrasecurity.com
 
